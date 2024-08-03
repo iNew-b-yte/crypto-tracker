@@ -1,6 +1,9 @@
 # Crypto Tracker
 
-**Note:** This project uses the free public API of CoinGecko, which updates the prices of coins every minute. Therefore, the data visible will be updated every minute.
+**Note:** 
+- This project uses the free public API of CoinGecko, which updates the prices of coins every minute. Therefore, the data visible will be updated every minute and the latest 20 data will take 20 minutes during the first run. The latest data can be determined based on timestamp in frontend.
+
+- To run the project locally, follow the below steps.
 
 ## Table of Contents
 - [Introduction](#introduction)
