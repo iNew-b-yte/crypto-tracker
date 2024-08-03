@@ -37,6 +37,7 @@ Crypto Tracker is a web application that tracks and displays the live prices of 
       ```sh
       npm start
       ```
+    - Setup mongodb on your system, according to the environment. If the port of mongodb server is not `27017`, then please change the port in the backend code `crypto-tracker-backend > config > default & production & developemnt > MONGODB_URI`. 
     - The backend server will start at `http://localhost:5000`. Ensure that port 5000 is free.
 
 4. **Setup the Frontend:**
