@@ -1,0 +1,5 @@
+{
+    "MONGODB_URI": "mongodb://127.0.0.1:27017/crypto_tracker",
+    "COINGECKO_API_URL": "https://api.coingecko.com/api/v3",
+    "COINGECKO_API_KEY": "CG-FDXcdMfaMFKVVENNRzqtbCd8"
+}
